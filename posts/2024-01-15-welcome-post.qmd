@@ -1,0 +1,99 @@
+---
+# =============================================================================
+# Sample News Post
+# =============================================================================
+# This is an example post to show the format for news items.
+# 
+# INSTRUCTIONS:
+# 1. Copy this file and rename it with your post date and title
+#    Format: YYYY-MM-DD-short-title.qmd
+# 2. Update all the fields in this YAML header
+# 3. Replace the content below with your actual news
+# 4. Delete this example file once you understand the format
+#
+# REQUIRED FIELDS:
+# - title: The headline that appears in the listing and at the top
+# - date: Publication date in YYYY-MM-DD format
+#
+# OPTIONAL FIELDS:
+# - description: Brief summary (appears in listing)
+# - author: Who wrote the post
+# - categories: List of categories for filtering
+# - image: Thumbnail image for listings (put in same folder or images/)
+# - draft: true  # Uncomment to hide from listing
+# =============================================================================
+title: "Welcome to Your New Lab Website!"
+description: "An example post demonstrating the news/blog format for your Quarto website."
+author: "Your Name"
+date: "2024-01-15"
+categories: [News, Welcome]
+# image: welcome-thumbnail.jpg
+# draft: true
+---
+
+This is an example post to demonstrate how news items and blog posts work in your Quarto website. You can delete this file once you've created your own posts.
+
+## How to Create a New Post
+
+1. **Create a new file** in the `posts/` folder
+2. **Name it** using the format: `YYYY-MM-DD-short-title.qmd`
+3. **Copy the YAML header** from this file and update the fields
+4. **Write your content** using Markdown
+
+## Markdown Formatting Examples
+
+Here are some common formatting options:
+
+### Text Formatting
+
+- **Bold text** using `**text**`
+- *Italic text* using `*text*`
+- [Links](https://quarto.org) using `[text](url)`
+
+### Images
+
+To add an image, place it in your `images/` folder and reference it:
+
+```markdown
+![Description](images/your-image.jpg)
+```
+
+### Code
+
+For inline code use backticks: `like this`
+
+For code blocks:
+
+```python
+# Example Python code
+def hello():
+    print("Hello, world!")
+```
+
+### Lists
+
+Bullet points:
+
+- First item
+- Second item
+- Third item
+
+Numbered lists:
+
+1. First step
+2. Second step
+3. Third step
+
+## Example Announcements
+
+Here are some types of posts you might create:
+
+- **New Publication**: "Our paper on [topic] was published in [Journal]"
+- **Grant Award**: "We received funding from [Agency] for [Project]"
+- **New Lab Member**: "Welcome [Name] who joins us as a [Position]"
+- **Conference Presentation**: "[Name] presented at [Conference]"
+- **Graduation**: "Congratulations to [Name] on defending their thesis!"
+
+---
+
+*Remember to delete this example post and create your own content!*

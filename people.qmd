@@ -1,0 +1,184 @@
+---
+# =============================================================================
+# people.qmd - Team/People Page
+# =============================================================================
+# This page showcases your lab members, collaborators, or team.
+#
+# INSTRUCTIONS:
+# 1. Add profile photos to the people/ folder
+# 2. Organize by role (PI, postdocs, students, alumni, etc.)
+# 3. Include brief bios and contact information
+# 4. Consider creating individual pages for each person in people/ folder
+#
+# IMAGE TIPS:
+# - Use consistent image sizes (e.g., 300x300 pixels)
+# - Square images work best for circular styling
+# - Use professional but friendly photos
+# =============================================================================
+title: "People"
+---
+
+<!-- 
+  This page uses a grid layout defined in styles.css
+  Each person is in a .person-card div for styling
+-->
+
+## Principal Investigator
+
+::: {.person-card}
+![PI Name](people/pi-photo.jpg){fig-alt="Photo of PI Name" width="150px"}
+
+### YOUR NAME, Ph.D.
+
+**Title/Position**
+
+Brief bio (2-3 sentences). Research interests, background, and what drives your work.
+
+[Email](mailto:your.email@university.edu) | [CV](files/cv.pdf)
+:::
+
+---
+
+## Postdoctoral Researchers
+
+::: {.team-grid}
+
+::: {.person-card}
+![Postdoc Name](people/postdoc1-photo.jpg){fig-alt="Photo of Postdoc 1" width="150px"}
+
+### Postdoc Name, Ph.D.
+
+**Postdoctoral Researcher**
+
+Research focus and brief background. Joined the lab in [Year].
+
+[Email](mailto:postdoc@university.edu)
+:::
+
+::: {.person-card}
+![Postdoc Name](people/postdoc2-photo.jpg){fig-alt="Photo of Postdoc 2" width="150px"}
+
+### Another Postdoc, Ph.D.
+
+**Postdoctoral Researcher**
+
+Research focus and brief background.
+
+[Email](mailto:postdoc2@university.edu)
+:::
+
+:::
+
+---
+
+## Graduate Students
+
+::: {.team-grid}
+
+::: {.person-card}
+![Student Name](people/student1-photo.jpg){fig-alt="Photo of Student 1" width="150px"}
+
+### Student Name
+
+**Ph.D. Candidate, Program Name**
+
+Research focus and interests. Expected graduation [Year].
+
+[Email](mailto:student@university.edu)
+:::
+
+::: {.person-card}
+![Student Name](people/student2-photo.jpg){fig-alt="Photo of Student 2" width="150px"}
+
+### Another Student
+
+**Ph.D. Student, Program Name**
+
+Research interests and background.
+
+[Email](mailto:student2@university.edu)
+:::
+
+::: {.person-card}
+![Student Name](people/student3-photo.jpg){fig-alt="Photo of Student 3" width="150px"}
+
+### Third Student
+
+**M.S. Student, Program Name**
+
+Research focus.
+
+[Email](mailto:student3@university.edu)
+:::
+
+:::
+
+---
+
+## Undergraduate Researchers
+
+::: {.team-grid}
+
+::: {.person-card}
+![Undergrad Name](people/undergrad1-photo.jpg){fig-alt="Photo of undergraduate researcher" width="150px"}
+
+### Undergrad Name
+
+**Undergraduate Researcher**
+
+Major and research project description.
+:::
+
+:::
+
+---
+
+## Lab Staff
+
+::: {.team-grid}
+
+::: {.person-card}
+![Staff Name](people/staff1-photo.jpg){fig-alt="Photo of lab staff member" width="150px"}
+
+### Staff Name
+
+**Lab Manager / Research Technician**
+
+Role and responsibilities in the lab.
+
+[Email](mailto:staff@university.edu)
+:::
+
+:::
+
+---
+
+## Alumni
+
+<!-- List former lab members with their current positions -->
+
+### Postdoctoral Alumni
+
+| Name | Years | Current Position |
+|------|-------|------------------|
+| Dr. Former Postdoc | 2020-2023 | Assistant Professor, University Name |
+| Dr. Another Alum | 2018-2021 | Research Scientist, Company Name |
+
+### Graduate Alumni
+
+| Name | Degree | Year | Current Position |
+|------|--------|------|------------------|
+| Dr. Former Student | Ph.D. | 2023 | Postdoc, Institution |
+| Former Student | M.S. | 2022 | Industry Position |
+
+### Undergraduate Alumni
+
+| Name | Year | Current Position |
+|------|------|------------------|
+| Former Undergrad | 2023 | Graduate Student, Program |
+
+---
+
+## Join Us
+
+We are always looking for motivated individuals at all levels. If you're interested in joining the lab, please see our [information for prospective students](prospective_students.qmd) or [contact us](about.qmd#contact-information).

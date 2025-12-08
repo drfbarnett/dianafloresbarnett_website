@@ -1,0 +1,89 @@
+---
+# =============================================================================
+# index.qmd - Your Website Homepage
+# =============================================================================
+# This is the main landing page visitors see when they arrive at your site.
+#
+# INSTRUCTIONS:
+# 1. Replace placeholder text with your own content
+# 2. Add an image to the images/ folder and update the image path
+# 3. Customize the layout using the options in 'about:' section
+#
+# ABOUT TEMPLATES:
+# The 'about:' section controls the layout. Template options include:
+# - jolla: Image above text, centered
+# - trestles: Image on left, text on right
+# - solana: Wide banner image with overlaid text
+# - marquee: Full-width hero with centered content
+# =============================================================================
+title: "YOUR_NAME Laboratory"
+subtitle: "Your tagline or brief description goes here"
+
+# Page layout configuration
+about:
+  template: trestles              # Layout template (see options above)
+  image: images/hero-image.jpg    # Main image - add your own image here
+  image-width: 20em               # Width of the profile/hero image
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:YOUR_EMAIL@university.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/YOUR_USERNAME
+    # Add more links as needed:
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/YOUR_HANDLE
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com/in/YOUR_PROFILE
+---
+
+<!-- 
+  MAIN CONTENT AREA
+  Write your homepage content below using Markdown syntax.
+  
+  MARKDOWN QUICK REFERENCE:
+  - # Heading 1, ## Heading 2, ### Heading 3
+  - **bold text**, *italic text*
+  - [Link text](https://url.com)
+  - ![Image alt text](images/filename.jpg)
+  - Bullet list: start lines with -
+  - Numbered list: start lines with 1., 2., etc.
+-->
+
+## Welcome
+
+Write a brief introduction to yourself, your lab, or your work here. This is the first thing visitors will read, so make it engaging and informative.
+
+**What we do:** Describe your main focus, research interests, or professional activities in 2-3 sentences.
+
+**Our mission:** Explain what drives your work and what you hope to achieve.
+
+## Research Highlights
+
+Briefly mention 2-3 key projects or areas of focus:
+
+- **Project One:** Brief description of this research area
+- **Project Two:** Brief description of another project
+- **Project Three:** One more area of interest
+
+[Learn more about our research →](research.qmd)
+
+## Recent News
+
+<!-- 
+  You can manually add news items here, or use Quarto's listing feature
+  to automatically pull from your posts/ directory
+-->
+
+Check out our [latest updates](posts.qmd) for news about publications, presentations, and lab activities.
+
+## Join Us
+
+We are always looking for motivated students and collaborators. If you're interested in our work, please [get in touch](about.qmd).
+
+---
+
+*This website was built with [Quarto](https://quarto.org).*

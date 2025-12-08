@@ -1,0 +1,21 @@
+# =============================================================================
+# _metadata.yml - Shared Metadata for Blog Posts
+# =============================================================================
+# This file sets default metadata for all files in the posts/ directory.
+# Individual posts can override these settings in their own YAML headers.
+#
+# INSTRUCTIONS:
+# Place this file in the posts/ folder to apply defaults to all posts.
+# =============================================================================
+
+# Default author for all posts (can be overridden per post)
+author: "Your Name"
+
+# Default categories to suggest (posts should add their own)
+# categories: [News]
+
+# Date format for display
+date-format: "MMMM D, YYYY"
+
+# Draft mode - set to true to hide all posts by default
+# draft: false

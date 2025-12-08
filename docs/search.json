@@ -1,0 +1,303 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "YOUR_NAME Laboratory",
+    "section": "",
+    "text": "Write a brief introduction to yourself, your lab, or your work here. This is the first thing visitors will read, so make it engaging and informative.\nWhat we do: Describe your main focus, research interests, or professional activities in 2-3 sentences.\nOur mission: Explain what drives your work and what you hope to achieve."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "YOUR_NAME Laboratory",
+    "section": "",
+    "text": "Write a brief introduction to yourself, your lab, or your work here. This is the first thing visitors will read, so make it engaging and informative.\nWhat we do: Describe your main focus, research interests, or professional activities in 2-3 sentences.\nOur mission: Explain what drives your work and what you hope to achieve."
+  },
+  {
+    "objectID": "index.html#research-highlights",
+    "href": "index.html#research-highlights",
+    "title": "YOUR_NAME Laboratory",
+    "section": "Research Highlights",
+    "text": "Research Highlights\nBriefly mention 2-3 key projects or areas of focus:\n\nProject One: Brief description of this research area\nProject Two: Brief description of another project\nProject Three: One more area of interest\n\nLearn more about our research →"
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "YOUR_NAME Laboratory",
+    "section": "Recent News",
+    "text": "Recent News\n\nCheck out our latest updates for news about publications, presentations, and lab activities."
+  },
+  {
+    "objectID": "index.html#join-us",
+    "href": "index.html#join-us",
+    "title": "YOUR_NAME Laboratory",
+    "section": "Join Us",
+    "text": "Join Us\nWe are always looking for motivated students and collaborators. If you’re interested in our work, please get in touch.\n\nThis website was built with Quarto."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "News & Updates",
+    "section": "",
+    "text": "Welcome to our news page! Here you’ll find updates about publications, lab events, and other announcements.\n\n\n\n\n\n\n\n\n\n\n\nWelcome to Your New Lab Website!\n\n\n\nNews\n\nWelcome\n\n\n\nAn example post demonstrating the news/blog format for your Quarto website.\n\n\n\n\n\nJan 15, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "YOUR_NAME is a [YOUR_TITLE] at [YOUR_INSTITUTION]. Write 2-3 paragraphs describing your background, expertise, and professional interests.\nEducation:\n\nPh.D., [Field], [University], [Year]\nM.S., [Field], [University], [Year]\nB.S., [Field], [University], [Year]\n\nProfessional Experience:\n\n[Current Position], [Institution], [Years]\n[Previous Position], [Institution], [Years]"
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About",
+    "section": "",
+    "text": "YOUR_NAME is a [YOUR_TITLE] at [YOUR_INSTITUTION]. Write 2-3 paragraphs describing your background, expertise, and professional interests.\nEducation:\n\nPh.D., [Field], [University], [Year]\nM.S., [Field], [University], [Year]\nB.S., [Field], [University], [Year]\n\nProfessional Experience:\n\n[Current Position], [Institution], [Years]\n[Previous Position], [Institution], [Years]"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research Interests",
+    "text": "Research Interests\nDescribe your main research interests and what problems you’re working to solve. This can be more detailed than the homepage summary.\n\nInterest Area 1: Brief explanation\nInterest Area 2: Brief explanation\n\nInterest Area 3: Brief explanation"
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "About",
+    "section": "Contact Information",
+    "text": "Contact Information\nOffice: [Building Name], Room [Number]\nAddress: [Street Address], [City, State ZIP]\nEmail: YOUR_EMAIL@university.edu\nPhone: (XXX) XXX-XXXX\nOffice Hours: By appointment"
+  },
+  {
+    "objectID": "about.html#curriculum-vitae",
+    "href": "about.html#curriculum-vitae",
+    "title": "About",
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\n\nDownload CV (PDF)"
+  },
+  {
+    "objectID": "posts/2024-01-15-welcome-post.html",
+    "href": "posts/2024-01-15-welcome-post.html",
+    "title": "Welcome to Your New Lab Website!",
+    "section": "",
+    "text": "This is an example post to demonstrate how news items and blog posts work in your Quarto website. You can delete this file once you’ve created your own posts."
+  },
+  {
+    "objectID": "posts/2024-01-15-welcome-post.html#how-to-create-a-new-post",
+    "href": "posts/2024-01-15-welcome-post.html#how-to-create-a-new-post",
+    "title": "Welcome to Your New Lab Website!",
+    "section": "How to Create a New Post",
+    "text": "How to Create a New Post\n\nCreate a new file in the posts/ folder\nName it using the format: YYYY-MM-DD-short-title.qmd\nCopy the YAML header from this file and update the fields\nWrite your content using Markdown"
+  },
+  {
+    "objectID": "posts/2024-01-15-welcome-post.html#markdown-formatting-examples",
+    "href": "posts/2024-01-15-welcome-post.html#markdown-formatting-examples",
+    "title": "Welcome to Your New Lab Website!",
+    "section": "Markdown Formatting Examples",
+    "text": "Markdown Formatting Examples\nHere are some common formatting options:\n\nText Formatting\n\nBold text using **text**\nItalic text using *text*\nLinks using [text](url)\n\n\n\nImages\nTo add an image, place it in your images/ folder and reference it:\n![Description](images/your-image.jpg)\n\n\nCode\nFor inline code use backticks: like this\nFor code blocks:\n# Example Python code\ndef hello():\n    print(\"Hello, world!\")\n\n\nLists\nBullet points:\n\nFirst item\nSecond item\nThird item\n\nNumbered lists:\n\nFirst step\nSecond step\nThird step"
+  },
+  {
+    "objectID": "posts/2024-01-15-welcome-post.html#example-announcements",
+    "href": "posts/2024-01-15-welcome-post.html#example-announcements",
+    "title": "Welcome to Your New Lab Website!",
+    "section": "Example Announcements",
+    "text": "Example Announcements\nHere are some types of posts you might create:\n\nNew Publication: “Our paper on [topic] was published in [Journal]”\nGrant Award: “We received funding from [Agency] for [Project]”\nNew Lab Member: “Welcome [Name] who joins us as a [Position]”\nConference Presentation: “[Name] presented at [Conference]”\nGraduation: “Congratulations to [Name] on defending their thesis!”\n\n\nRemember to delete this example post and create your own content!"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Term Year\nBrief course description explaining what students will learn. Include information about the level (undergraduate/graduate), prerequisites, and key topics covered.\n\nSchedule: Days, Time\nLocation: Building, Room\nCredits: X credits\nCourse Materials\nSyllabus (PDF)\n\n\n\n\n\nTerm Year\nCourse description here.\n\nSchedule: Days, Time\nLocation: Building, Room\nCredits: X credits"
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Term Year\nBrief course description explaining what students will learn. Include information about the level (undergraduate/graduate), prerequisites, and key topics covered.\n\nSchedule: Days, Time\nLocation: Building, Room\nCredits: X credits\nCourse Materials\nSyllabus (PDF)\n\n\n\n\n\nTerm Year\nCourse description here.\n\nSchedule: Days, Time\nLocation: Building, Room\nCredits: X credits"
+  },
+  {
+    "objectID": "teaching.html#past-courses",
+    "href": "teaching.html#past-courses",
+    "title": "Teaching",
+    "section": "Past Courses",
+    "text": "Past Courses\n\n\n\nCourse\nLevel\nLast Taught\nDescription\n\n\n\n\nDEPT 101\nUndergraduate\nFall 2023\nIntroduction to Topic\n\n\nDEPT 501\nGraduate\nSpring 2023\nAdvanced Topic\n\n\nDEPT 410\nUpper Division\nWinter 2022\nSpecial Topics"
+  },
+  {
+    "objectID": "teaching.html#educational-resources",
+    "href": "teaching.html#educational-resources",
+    "title": "Teaching",
+    "section": "Educational Resources",
+    "text": "Educational Resources\n\n\nTutorials and Workshops\n\n[Tutorial Name]: Brief description and link\n[Workshop Materials]: Brief description and link\n\n\n\nOpen Educational Resources\n\nCourse lecture notes or slides\nPractice problems and solutions\nVideo recordings"
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching",
+    "section": "Mentoring",
+    "text": "Mentoring\nI am available to mentor students at various levels:\n\nGraduate Students\nInformation about graduate advising, programs you’re affiliated with, and how prospective students should apply.\n\n\nUndergraduate Researchers\nInformation about research opportunities for undergraduates, how to apply, and what types of projects are available.\n\n\nPostdoctoral Positions\nInformation about postdoctoral opportunities when available."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\n\nA few sentences about your approach to teaching and what you value in education."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Write 1-2 paragraphs providing a high-level overview of your research. What are the big questions you’re trying to answer? What approaches do you use?"
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Research",
+    "section": "",
+    "text": "Write 1-2 paragraphs providing a high-level overview of your research. What are the big questions you’re trying to answer? What approaches do you use?"
+  },
+  {
+    "objectID": "research.html#project-1-project-title",
+    "href": "research.html#project-1-project-title",
+    "title": "Research",
+    "section": "Project 1: [Project Title]",
+    "text": "Project 1: [Project Title]\n\n\n\n\nProject 1 description\n\n\n\nBackground\nExplain the scientific context and motivation for this project. What gap in knowledge are you addressing?\n\n\nApproach\nDescribe your methodology. What techniques, tools, or frameworks do you use?\n\n\nKey Findings\nSummarize the main results or contributions of this work.\n\n\nRelated Publications\n\n\nAuthor et al. (Year). Paper title. Journal Name.\nAuthor et al. (Year). Another paper. Journal Name.\n\n\n\nFunding\nThis work is supported by [Funding Agency] grant #XXXXXXX."
+  },
+  {
+    "objectID": "research.html#project-2-project-title",
+    "href": "research.html#project-2-project-title",
+    "title": "Research",
+    "section": "Project 2: [Project Title]",
+    "text": "Project 2: [Project Title]\n\n\n\nProject 2 description\n\n\n\nBackground\nDescribe the context for this project.\n\n\nApproach\nExplain your methods and approach.\n\n\nKey Findings\nSummarize main results.\n\n\nRelated Publications\n\n[Citation here]"
+  },
+  {
+    "objectID": "research.html#project-3-project-title",
+    "href": "research.html#project-3-project-title",
+    "title": "Research",
+    "section": "Project 3: [Project Title]",
+    "text": "Project 3: [Project Title]\n\n\n\nProject 3 description\n\n\n\nBackground\nProject background and motivation.\n\n\nApproach\nMethods and techniques used.\n\n\nKey Findings\nMain results and contributions."
+  },
+  {
+    "objectID": "research.html#collaborations",
+    "href": "research.html#collaborations",
+    "title": "Research",
+    "section": "Collaborations",
+    "text": "Collaborations\n\nWe are fortunate to collaborate with researchers from various institutions:\n\n[Collaborator Name], [Institution] - [Area of collaboration]\n[Collaborator Name], [Institution] - [Area of collaboration]\n[Collaborator Name], [Institution] - [Area of collaboration]"
+  },
+  {
+    "objectID": "research.html#resources",
+    "href": "research.html#resources",
+    "title": "Research",
+    "section": "Resources",
+    "text": "Resources\n\n\nSoftware: [Link to GitHub repositories or software tools]\nData: [Link to shared datasets]\nProtocols: [Link to methods/protocols]"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name, Coauthor A, Coauthor B. (2024). Title of the preprint paper. bioRxiv. DOI"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name, Coauthor A, Coauthor B. (2024). Title of the preprint paper. bioRxiv. DOI"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\n2024\n\n\nYour Name, Coauthor A, Coauthor B, Coauthor C. (2024). Title of your first 2024 paper goes here with full title. Journal Name, Volume(Issue), Pages. DOI | PDF\nCoauthor A, Your Name, Coauthor B. (2024). Another paper from 2024. Another Journal, Volume(Issue), Pages. DOI\n\n\n\n2023\n\nYour Name, Coauthor A. (2023). Paper title from 2023. Journal Name, Volume(Issue), Pages. DOI\nCoauthor A, Coauthor B, Your Name, Coauthor C. (2023). Another 2023 paper. Journal Name, Volume(Issue), Pages. DOI\n\n\n\n2022\n\nYour Name, Coauthor A, Coauthor B. (2022). Paper from 2022. Journal Name, Volume(Issue), Pages. DOI"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\nYour Name. (Year). Chapter title. In Editor A & Editor B (Eds.), Book Title (pp. XX-XX). Publisher Name."
+  },
+  {
+    "objectID": "publications.html#conference-proceedings",
+    "href": "publications.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\nYour Name, Coauthor A. (Year). Conference paper title. In Proceedings of Conference Name (pp. XX-XX). Location."
+  },
+  {
+    "objectID": "publications.html#theses",
+    "href": "publications.html#theses",
+    "title": "Publications",
+    "section": "Theses",
+    "text": "Theses\n\nYour Name. (Year). Dissertation Title. Ph.D. Dissertation, University Name."
+  },
+  {
+    "objectID": "publications.html#publication-profiles",
+    "href": "publications.html#publication-profiles",
+    "title": "Publications",
+    "section": "Publication Profiles",
+    "text": "Publication Profiles\n\nGoogle Scholar\nORCID\nPubMed\n\n\nNote: PDFs are provided for personal, educational use only. Please respect copyright and publisher policies."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "PI Name\n\n\n\n\nTitle/Position\nBrief bio (2-3 sentences). Research interests, background, and what drives your work.\nEmail | CV"
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "PI Name\n\n\n\n\nTitle/Position\nBrief bio (2-3 sentences). Research interests, background, and what drives your work.\nEmail | CV"
+  },
+  {
+    "objectID": "people.html#postdoctoral-researchers",
+    "href": "people.html#postdoctoral-researchers",
+    "title": "People",
+    "section": "Postdoctoral Researchers",
+    "text": "Postdoctoral Researchers\n\n\n\n\n\nPostdoc Name\n\n\n\nPostdoc Name, Ph.D.\nPostdoctoral Researcher\nResearch focus and brief background. Joined the lab in [Year].\nEmail\n\n\n\n\n\n\nPostdoc Name\n\n\n\nAnother Postdoc, Ph.D.\nPostdoctoral Researcher\nResearch focus and brief background.\nEmail"
+  },
+  {
+    "objectID": "people.html#graduate-students",
+    "href": "people.html#graduate-students",
+    "title": "People",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\n\nStudent Name\n\n\n\nStudent Name\nPh.D. Candidate, Program Name\nResearch focus and interests. Expected graduation [Year].\nEmail\n\n\n\n\n\n\nStudent Name\n\n\n\nAnother Student\nPh.D. Student, Program Name\nResearch interests and background.\nEmail\n\n\n\n\n\n\nStudent Name\n\n\n\nThird Student\nM.S. Student, Program Name\nResearch focus.\nEmail"
+  },
+  {
+    "objectID": "people.html#undergraduate-researchers",
+    "href": "people.html#undergraduate-researchers",
+    "title": "People",
+    "section": "Undergraduate Researchers",
+    "text": "Undergraduate Researchers\n\n\n\n\n\nUndergrad Name\n\n\n\nUndergrad Name\nUndergraduate Researcher\nMajor and research project description."
+  },
+  {
+    "objectID": "people.html#lab-staff",
+    "href": "people.html#lab-staff",
+    "title": "People",
+    "section": "Lab Staff",
+    "text": "Lab Staff\n\n\n\n\n\nStaff Name\n\n\n\nStaff Name\nLab Manager / Research Technician\nRole and responsibilities in the lab.\nEmail"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\nPostdoctoral Alumni\n\n\n\n\n\n\n\n\nName\nYears\nCurrent Position\n\n\n\n\nDr. Former Postdoc\n2020-2023\nAssistant Professor, University Name\n\n\nDr. Another Alum\n2018-2021\nResearch Scientist, Company Name\n\n\n\n\n\nGraduate Alumni\n\n\n\nName\nDegree\nYear\nCurrent Position\n\n\n\n\nDr. Former Student\nPh.D.\n2023\nPostdoc, Institution\n\n\nFormer Student\nM.S.\n2022\nIndustry Position\n\n\n\n\n\nUndergraduate Alumni\n\n\n\nName\nYear\nCurrent Position\n\n\n\n\nFormer Undergrad\n2023\nGraduate Student, Program"
+  },
+  {
+    "objectID": "people.html#join-us",
+    "href": "people.html#join-us",
+    "title": "People",
+    "section": "Join Us",
+    "text": "Join Us\nWe are always looking for motivated individuals at all levels. If you’re interested in joining the lab, please see our information for prospective students or contact us."
+  }
+]

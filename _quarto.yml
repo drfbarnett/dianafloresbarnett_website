@@ -1,0 +1,95 @@
+# =============================================================================
+# _quarto.yml - Main Configuration File for Your Quarto Website
+# =============================================================================
+# This is the central configuration file that controls your entire website.
+# It defines the project type, website structure, navigation, and appearance.
+#
+# INSTRUCTIONS:
+# 1. Replace all placeholder text (marked with YOUR_...) with your information
+# 2. Customize the color scheme in the 'format' section
+# 3. Add or remove navigation items based on pages you want to include
+# =============================================================================
+
+project:
+  type: website
+  output-dir: docs              # Rendered HTML files go here (used by GitHub Pages)
+
+website:
+  # ---------------------------------------------------------------------------
+  # BASIC SITE INFORMATION
+  # Replace these with your own details
+  # ---------------------------------------------------------------------------
+  title: "YOUR_NAME Laboratory"  # Appears in browser tab and header
+  description: "Brief description of your lab/personal site"
+  
+  # ---------------------------------------------------------------------------
+  # NAVIGATION BAR
+  # This defines the menu at the top of every page
+  # - 'text' is what users see
+  # - 'href' is the file it links to (.qmd files become .html)
+  # - 'menu' creates dropdown menus
+  # ---------------------------------------------------------------------------
+  navbar:
+    background: primary         # Uses the primary color defined in format section
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "News"
+        href: posts.qmd
+      # Uncomment these as you create the pages:
+      # - text: "Teaching"
+      #   href: teaching.qmd
+      # - text: "Software"
+      #   href: software.qmd
+    
+    # Social media links on the right side of navbar
+    right:
+      - icon: github
+        href: https://github.com/YOUR_GITHUB_USERNAME
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:YOUR_EMAIL@university.edu
+        aria-label: Email
+
+  # ---------------------------------------------------------------------------
+  # PAGE FOOTER
+  # Appears at the bottom of every page
+  # ---------------------------------------------------------------------------
+  page-footer:
+    left: "© 2024 YOUR_NAME. All rights reserved."
+    right: 
+      - text: "Built with Quarto"
+        href: https://quarto.org
+
+# -----------------------------------------------------------------------------
+# OUTPUT FORMAT AND STYLING
+# This controls the visual appearance of your website
+# -----------------------------------------------------------------------------
+format:
+  html:
+    theme:
+      light: 
+        - cosmo                 # Base theme (options: cosmo, flatly, journal, etc.)
+        - theme-custom.scss     # Your custom color overrides
+    css: styles.css             # Additional custom CSS
+    toc: true                   # Table of contents on pages
+    toc-depth: 3                # How many heading levels to show in TOC
+    code-fold: true             # Allow code blocks to be collapsed
+    code-tools: true            # Show code tools button
+
+# -----------------------------------------------------------------------------
+# EXTENSIONS
+# Quarto extensions add functionality like icons
+# To install Font Awesome: quarto add quarto-ext/fontawesome
+# -----------------------------------------------------------------------------
+# Uncomment after installing the fontawesome extension:
+# filters:
+#   - quarto-ext/fontawesome

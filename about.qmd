@@ -1,0 +1,69 @@
+---
+# =============================================================================
+# about.qmd - About Page
+# =============================================================================
+# This page provides detailed information about you, your background,
+# and how to contact you.
+#
+# INSTRUCTIONS:
+# 1. Add your professional photo to images/
+# 2. Fill in your biographical information
+# 3. Update contact details and office location
+# 4. Add your CV/resume if desired
+# =============================================================================
+title: "About"
+---
+
+## Biography
+
+<!-- 
+  Write your professional biography here. Consider including:
+  - Your current position and institution
+  - Your educational background
+  - Your research interests and expertise
+  - Previous positions (briefly)
+  - Any notable achievements or awards
+-->
+
+YOUR_NAME is a [YOUR_TITLE] at [YOUR_INSTITUTION]. Write 2-3 paragraphs describing your background, expertise, and professional interests.
+
+**Education:**
+
+- Ph.D., [Field], [University], [Year]
+- M.S., [Field], [University], [Year]
+- B.S., [Field], [University], [Year]
+
+**Professional Experience:**
+
+- [Current Position], [Institution], [Years]
+- [Previous Position], [Institution], [Years]
+
+## Research Interests
+
+Describe your main research interests and what problems you're working to solve. This can be more detailed than the homepage summary.
+
+- **Interest Area 1:** Brief explanation
+- **Interest Area 2:** Brief explanation  
+- **Interest Area 3:** Brief explanation
+
+## Contact Information
+
+**Office:** [Building Name], Room [Number]  
+**Address:** [Street Address], [City, State ZIP]  
+**Email:** [YOUR_EMAIL@university.edu](mailto:YOUR_EMAIL@university.edu)  
+**Phone:** (XXX) XXX-XXXX
+
+**Office Hours:** By appointment
+
+## Curriculum Vitae
+
+<!-- 
+  You can either:
+  1. Link to a PDF of your CV (add the file to a files/ directory)
+  2. Include your CV directly on this page
+  3. Create a separate cv.qmd page
+-->
+
+[Download CV (PDF)](files/YOUR_NAME_CV.pdf)
+
+<!-- Or expand your CV directly here using markdown -->

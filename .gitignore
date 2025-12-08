@@ -1,0 +1,27 @@
+# Quarto render artifacts
+/.quarto/
+/_site/
+
+# R artifacts (if using R with Quarto)
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Python artifacts (if using Python with Quarto)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

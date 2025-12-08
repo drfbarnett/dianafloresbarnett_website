@@ -1,0 +1,97 @@
+---
+# =============================================================================
+# publications.qmd - Publications Page
+# =============================================================================
+# This page lists your published work including journal articles, 
+# book chapters, conference papers, and preprints.
+#
+# INSTRUCTIONS:
+# 1. Add publications in reverse chronological order (newest first)
+# 2. Include DOI links when available
+# 3. Consider grouping by year or by type
+# 4. Highlight your name in the author list
+#
+# FORMATTING TIPS:
+# - Use **bold** for your name in author lists
+# - Use *italics* for journal names
+# - Include DOI links for easy access
+# - Add [PDF] links to freely accessible versions when allowed
+#
+# ADVANCED OPTIONS:
+# - Consider using a .bib file with Quarto's citation system
+# - See: https://quarto.org/docs/authoring/footnotes-and-citations.html
+# =============================================================================
+title: "Publications"
+---
+
+<!-- 
+  You can organize publications by:
+  - Year (shown below)
+  - Type (journal articles, conference papers, book chapters)
+  - Research area/project
+-->
+
+## Preprints
+
+<!-- List papers that are under review or on preprint servers -->
+
+1. **Your Name**, Coauthor A, Coauthor B. (2024). Title of the preprint paper. *bioRxiv*. [DOI](https://doi.org/10.1101/XXXXX)
+
+---
+
+## Peer-Reviewed Publications
+
+### 2024
+
+<!-- Each publication entry -->
+
+1. **Your Name**, Coauthor A, Coauthor B, Coauthor C. (2024). Title of your first 2024 paper goes here with full title. *Journal Name*, Volume(Issue), Pages. [DOI](https://doi.org/10.XXXX/XXXXX) | [PDF](files/paper1.pdf)
+
+2. Coauthor A, **Your Name**, Coauthor B. (2024). Another paper from 2024. *Another Journal*, Volume(Issue), Pages. [DOI](https://doi.org/10.XXXX/XXXXX)
+
+### 2023
+
+1. **Your Name**, Coauthor A. (2023). Paper title from 2023. *Journal Name*, Volume(Issue), Pages. [DOI](https://doi.org/10.XXXX/XXXXX)
+
+2. Coauthor A, Coauthor B, **Your Name**, Coauthor C. (2023). Another 2023 paper. *Journal Name*, Volume(Issue), Pages. [DOI](https://doi.org/10.XXXX/XXXXX)
+
+### 2022
+
+1. **Your Name**, Coauthor A, Coauthor B. (2022). Paper from 2022. *Journal Name*, Volume(Issue), Pages. [DOI](https://doi.org/10.XXXX/XXXXX)
+
+<!-- Add more years as needed -->
+
+---
+
+## Book Chapters
+
+1. **Your Name**. (Year). Chapter title. In Editor A & Editor B (Eds.), *Book Title* (pp. XX-XX). Publisher Name.
+
+---
+
+## Conference Proceedings
+
+1. **Your Name**, Coauthor A. (Year). Conference paper title. In *Proceedings of Conference Name* (pp. XX-XX). Location.
+
+---
+
+## Theses
+
+- **Your Name**. (Year). *Dissertation Title*. Ph.D. Dissertation, University Name.
+
+---
+
+<!-- 
+  OPTIONAL: Google Scholar and Other Links
+  Add links to your publication profiles
+-->
+
+## Publication Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
+- [ORCID](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=YOUR+NAME)
+
+---
+
+*Note: PDFs are provided for personal, educational use only. Please respect copyright and publisher policies.*

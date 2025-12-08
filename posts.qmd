@@ -1,0 +1,68 @@
+---
+# =============================================================================
+# posts.qmd - News and Blog Listing Page
+# =============================================================================
+# This page automatically lists all posts from the posts/ directory.
+# Quarto's listing feature handles the display automatically.
+#
+# INSTRUCTIONS:
+# 1. Create new posts in the posts/ folder as .qmd files
+# 2. Name files with date prefix: YYYY-MM-DD-post-title.qmd
+# 3. Each post needs a YAML header with title, date, and categories
+# 4. The listing below will automatically update
+#
+# LISTING OPTIONS:
+# - sort: How to order posts (date, title, etc.)
+# - type: Display style (default, grid, table)
+# - categories: Show category filters (true/false)
+# - max-items: Number of posts to show (remove for all)
+# - page-size: Number of posts per page if paginated
+# =============================================================================
+title: "News & Updates"
+listing:
+  contents: posts              # Directory containing posts
+  sort: "date desc"            # Newest posts first
+  type: default                # Display style: default, grid, or table
+  categories: true             # Show category filters on sidebar
+  sort-ui: false               # Hide sort controls
+  filter-ui: false             # Hide filter controls
+  # page-size: 10              # Uncomment to enable pagination
+  # max-items: 5               # Uncomment to limit number shown
+  fields: [date, title, description, categories]  # What to show for each post
+---
+
+<!-- 
+  INSTRUCTIONS FOR ADDING NEW POSTS:
+  
+  1. Create a new .qmd file in the posts/ folder
+  2. Name it with the date: YYYY-MM-DD-short-title.qmd
+     Example: 2024-03-15-new-paper-published.qmd
+  
+  3. Include this YAML header at the top:
+     ---
+     title: "Your Post Title"
+     description: "A brief description that appears in the listing"
+     author: "Your Name"
+     date: "2024-03-15"
+     categories: [Publication, News]
+     image: thumbnail.jpg  # Optional thumbnail image
+     ---
+  
+  4. Write your content below the YAML header using Markdown
+  
+  SUGGESTED CATEGORIES:
+  - Publication (new papers, preprints)
+  - Award (grants, honors, recognition)
+  - Conference (presentations, meetings)
+  - Welcome (new lab members)
+  - Graduation (thesis defenses, degrees)
+  - News (general updates)
+  - Outreach (public engagement, media)
+-->
+
+<!-- 
+  The listing is automatically generated below this point.
+  You can add introductory text here if desired.
+-->
+
+Welcome to our news page! Here you'll find updates about publications, lab events, and other announcements.

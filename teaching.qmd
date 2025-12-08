@@ -1,0 +1,93 @@
+---
+# =============================================================================
+# teaching.qmd - Teaching Page
+# =============================================================================
+# This page lists courses you teach and educational resources.
+#
+# INSTRUCTIONS:
+# 1. List current and past courses
+# 2. Include course descriptions and links to materials
+# 3. Add information about mentoring opportunities
+# 4. Link to tutorials or educational resources you've created
+# =============================================================================
+title: "Teaching"
+---
+
+## Current Courses
+
+### Course Name (DEPT XXX)
+
+**Term Year**
+
+Brief course description explaining what students will learn. Include information about the level (undergraduate/graduate), prerequisites, and key topics covered.
+
+- **Schedule:** Days, Time
+- **Location:** Building, Room
+- **Credits:** X credits
+- [Course Materials](link-to-materials)
+- [Syllabus (PDF)](files/syllabus.pdf)
+
+---
+
+### Another Course (DEPT YYY)
+
+**Term Year**
+
+Course description here.
+
+- **Schedule:** Days, Time
+- **Location:** Building, Room
+- **Credits:** X credits
+
+---
+
+## Past Courses
+
+| Course | Level | Last Taught | Description |
+|--------|-------|-------------|-------------|
+| DEPT 101 | Undergraduate | Fall 2023 | Introduction to Topic |
+| DEPT 501 | Graduate | Spring 2023 | Advanced Topic |
+| DEPT 410 | Upper Division | Winter 2022 | Special Topics |
+
+---
+
+## Educational Resources
+
+<!-- Link to tutorials, workshops, or educational materials you've created -->
+
+### Tutorials and Workshops
+
+- **[Tutorial Name]**: Brief description and link
+- **[Workshop Materials]**: Brief description and link
+
+### Open Educational Resources
+
+- [Course lecture notes or slides](link)
+- [Practice problems and solutions](link)
+- [Video recordings](link)
+
+---
+
+## Mentoring
+
+I am available to mentor students at various levels:
+
+### Graduate Students
+
+Information about graduate advising, programs you're affiliated with, and how prospective students should apply.
+
+### Undergraduate Researchers
+
+Information about research opportunities for undergraduates, how to apply, and what types of projects are available.
+
+### Postdoctoral Positions
+
+Information about postdoctoral opportunities when available.
+
+---
+
+## Teaching Philosophy
+
+<!-- Optional: Include a brief statement about your teaching philosophy -->
+
+A few sentences about your approach to teaching and what you value in education.

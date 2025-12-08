@@ -1,0 +1,119 @@
+---
+# =============================================================================
+# research.qmd - Research Projects Page
+# =============================================================================
+# This page showcases your research projects and areas of focus.
+#
+# INSTRUCTIONS:
+# 1. Add project images to the images/ folder
+# 2. Create a section for each major research project
+# 3. Include relevant figures, descriptions, and links to papers
+# 4. Consider adding links to data, code, or collaborator sites
+#
+# TIPS:
+# - Use clear, accessible language
+# - Include visual elements to make the page engaging
+# - Link to publications related to each project
+# =============================================================================
+title: "Research"
+---
+
+<!-- 
+  OVERVIEW SECTION
+  Provide a brief introduction to your research program
+-->
+
+## Overview
+
+Write 1-2 paragraphs providing a high-level overview of your research. What are the big questions you're trying to answer? What approaches do you use?
+
+---
+
+## Project 1: [Project Title]
+
+<!-- Add a project image -->
+![Project 1 description](images/project1-image.jpg){fig-alt="Descriptive alt text for accessibility" width="80%"}
+
+### Background
+
+Explain the scientific context and motivation for this project. What gap in knowledge are you addressing?
+
+### Approach
+
+Describe your methodology. What techniques, tools, or frameworks do you use?
+
+### Key Findings
+
+Summarize the main results or contributions of this work.
+
+### Related Publications
+
+<!-- Link to publications related to this project -->
+- [Author et al. (Year). Paper title. *Journal Name*.](https://doi.org/XXXX)
+- [Author et al. (Year). Another paper. *Journal Name*.](https://doi.org/XXXX)
+
+### Funding
+
+This work is supported by [Funding Agency] grant #XXXXXXX.
+
+---
+
+## Project 2: [Project Title]
+
+![Project 2 description](images/project2-image.jpg){fig-alt="Descriptive alt text" width="80%"}
+
+### Background
+
+Describe the context for this project.
+
+### Approach
+
+Explain your methods and approach.
+
+### Key Findings
+
+Summarize main results.
+
+### Related Publications
+
+- [Citation here]
+
+---
+
+## Project 3: [Project Title]
+
+![Project 3 description](images/project3-image.jpg){fig-alt="Descriptive alt text" width="80%"}
+
+### Background
+
+Project background and motivation.
+
+### Approach
+
+Methods and techniques used.
+
+### Key Findings
+
+Main results and contributions.
+
+---
+
+## Collaborations
+
+<!-- List key collaborators and their institutions -->
+
+We are fortunate to collaborate with researchers from various institutions:
+
+- **[Collaborator Name]**, [Institution] - [Area of collaboration]
+- **[Collaborator Name]**, [Institution] - [Area of collaboration]
+- **[Collaborator Name]**, [Institution] - [Area of collaboration]
+
+---
+
+## Resources
+
+<!-- Link to shared resources like software, datasets, protocols -->
+
+- **Software:** [Link to GitHub repositories or software tools]
+- **Data:** [Link to shared datasets]
+- **Protocols:** [Link to methods/protocols]
