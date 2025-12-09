@@ -16,13 +16,13 @@
 # - solana: Wide banner image with overlaid text
 # - marquee: Full-width hero with centered content
 # =============================================================================
-title: "Diana Flores Barnett Laboratory"
-subtitle: "Bioengineering Ph.D. at UO Knight Campus"
+title: "Diana Flores Barnett"
+subtitle: "Hettiaratchi Lab \n Bioengineering Ph.D. Student at UO Knight Campus"
 
 # Page layout configuration
 about:
   template: trestles              # Layout template (see options above)
-  image: images/hero-image.jpg    # Main image - add your own image here
+  image: images/dfb_ProfilePic.jpg    # Main image - add your own image here
   image-width: 20em               # Width of the profile/hero image
   links:
     - icon: envelope
