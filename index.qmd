@@ -16,8 +16,8 @@
 # - solana: Wide banner image with overlaid text
 # - marquee: Full-width hero with centered content
 # =============================================================================
-title: "YOUR_NAME Laboratory"
-subtitle: "Your tagline or brief description goes here"
+title: "Diana Flores Barnett Laboratory"
+subtitle: "Bioengineering Ph.D. at UO Knight Campus"
 
 # Page layout configuration
 about:
